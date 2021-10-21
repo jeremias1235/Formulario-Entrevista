@@ -75,7 +75,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="form-group">
-                                <label>Provincia (*)</label>
+                                <label>Provincia</label>
                                 <select name="provincias" id="provincias" class="form-control">
 
                                 </select>
