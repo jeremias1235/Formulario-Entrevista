@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "user": "juancarlos@example.com",
+        "nombre": "Juan",
+        "apellido": "Carlos",
+        "id_provincia": "54"
+      },
+      {
+        "user": "marianalopez@example.com",
+        "nombre": "Mariana",
+        "apellido": "Lopez",
+        "id_provincia": "74"
+      },
+      {
+        "user": "saraperez@example.com",
+        "nombre": "Sara",
+        "apellido": "Perez",
+        "id_provincia": "70"
+      },
+      {
+        "user": "juanitarodriguez@example.com",
+        "nombre": "Juana",
+        "apellido": "Rodriguez",
+        "id_provincia": "70"
+      }
+    ],
+    "total": 4,
+    "cantidad": 4    
+}
